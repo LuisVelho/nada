@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.cabecalho{
+    background-color: rgb(71, 71, 71);
+    color: rgb(60, 255, 0);
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+    font-size: 30px;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+    /*Tamanho da imagem da logo.*/
+    /*Se for texto usa o "font-size: 20px;"*/
+}
+
+.cabecalhoListaItem{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+}
+
+.sobre-imagem{
+    width: 25%;
+}
+
+.sobre{
+    background-image: linear-gradient(#6e6e6e, #000000);
+    color:#10c40a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.sobre-conteudo{
+    width: 35%;
+}
+
+.sobretitulo{
+    padding: 24px 0;
+}
+
+.membro-icone{
+    width: 12px;
+}
+
+.membro-div{
+    text-align: center;
+}
+.membros-titulo{
+    text-align: center;
+    padding:50px 0;
+}
+
+.membro-icone{
+    width: 10px;
+}
+
+.membro-div{
+    text-align: center;
+}
+.membros-titulo{
+    text-align: center;
+    padding:50px 0;
+}
